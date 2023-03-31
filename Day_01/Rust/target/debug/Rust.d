@@ -1,0 +1,1 @@
+/home/likdev256/VSCode-Projects/AdventOfCode/Day_01/Rust/target/debug/Rust: /home/likdev256/VSCode-Projects/AdventOfCode/Day_01/Rust/src/input.txt /home/likdev256/VSCode-Projects/AdventOfCode/Day_01/Rust/src/main.rs
